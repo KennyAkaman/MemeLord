@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Welcome to my Joke Sharing slide!"
 ---
-Your text
+Let me tell you a joke, Q: How do you count cows? A: With a cowculator.
 Use the left arrow to go back!
